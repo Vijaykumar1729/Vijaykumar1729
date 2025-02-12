@@ -1,3 +1,4 @@
+![logo](https://github.com/Vijaykumar1729/Vijaykumar1729/blob/main/git%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Vijay Kumar Pedapati</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
