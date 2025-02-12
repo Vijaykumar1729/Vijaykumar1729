@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pvijayk1729@gmail.com**
 
-- 📄 Know about my experiences [VijayKumarPedapatiResume (1) (1).pdf](VijayKumarPedapatiResume (1) (1).pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
